@@ -1,0 +1,13 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Đây là name",
+            "image": "https://picsum.photos/100/200",
+            "price": 2000,
+            "quality": 100,
+            "description": "Đây là description"
+        }
+    ],
+    "users": []
+}
